@@ -9,6 +9,8 @@ image = "blank_states_img.gif"
 screen.addshape(image)
 turtle.shape(image)
 
+#dwacbhefbcvuiwevbwv
+#svfdbdsb
 
 
 # def get_mouse_click_coor(x, y):
